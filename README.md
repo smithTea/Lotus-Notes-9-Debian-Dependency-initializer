@@ -7,9 +7,10 @@
 
 > download x32 libs for ibm_lotus_notes_9.0.1
 
-## Depends on
-python3,
-python modules: bs4, requests, subprocess
+## Depends on python modules
+```sh
+bs4, requests, subprocess
+```
 
 ## Install modules
 ```sh
@@ -25,7 +26,7 @@ python3 x32_dependecy_downloader.py
 ## Install libs
 
 ```sh
-python3 x32_dependecy_downloader.py
+python3 x32_dependecy_installer.py
 ```
 
 ## Author
